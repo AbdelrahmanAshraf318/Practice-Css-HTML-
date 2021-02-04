@@ -1,0 +1,28 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.parent
+{
+    width: 85%;
+    height: 630px;
+    margin: auto;
+    background-color: rgba(211 , 211, 211, 0.5);
+    overflow: hidden;
+}
+.child
+{
+    width: 50%;
+    height: 3%;
+    background-color: royalblue;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+.child a
+{
+    text-decoration: none;
+    color: turquoise;
+    padding-left: 60px;
+}
